@@ -9,10 +9,10 @@ python main.py
 
 Se le pedirá que ingrese el nombre del archivo, que puede escoger entre:
 
-*Codigo1
-*Codigo2
-*Codigo3 
-*Codigo4
+* Codigo1
+* Codigo2
+* Codigo3 
+* Codigo4
 
 # Ejemplo de ejecución
 
